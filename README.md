@@ -7,4 +7,4 @@
 
 - An accuracy of 94% is achieved with random forest classifier
 
-- The trained model can then be used to classify the quality of new drugs based on their textual description. This approach can be particularly useful in the early stages of drug development, where it can help identify potential issues with a drug before it goes through expensive and time-consuming clinical trials.
+- This approach can be particularly useful in the early stages of drug development, where it can help identify potential issues with a drug before it goes through expensive and time-consuming clinical trials.
